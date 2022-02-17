@@ -32,5 +32,6 @@ Router(config-router)#neighbor 192.168.8.2 remote-as 300
 Router(config-router)#neighbor 192.168.10.1 remote-as 300
 
 Similarly, remaining routers are configured
+
 Wait till every link turns to green, which is the confirmation of the successful connection of links
 Transfer the message packets within an autonomous system and also across the autonomous systems and check for the status. We observe that the transfer of data in the form of message packets initially fails, but is successful at later stages
